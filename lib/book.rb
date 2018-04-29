@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class Book
   attr_accessor :author, :page_count, :genre
   attr_reader :title
@@ -15,6 +16,7 @@ end
 
 
 
+<<<<<<< HEAD
 
 
 #   def initialize(title)
@@ -44,3 +46,8 @@ end
 #   end
 #
 # end
+=======
+end
+=======
+>>>>>>> 22ddc8b3453a44e3b8ba307f17be1211a5ee84eb
+>>>>>>> d69f28a6d66800675f76d4e3a017af9d8ef499ca
